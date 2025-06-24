@@ -61,8 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 🧰 Cómo contactarme
 
-<img align= "left" alt = "gmail" width = "30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/3e87d7a0-bffa-4ced-8737-c0b4e5feaa08
-" />rarojasag@ittepic.edu.mx
+<img align= "left" alt = "gmail" width = "30px" style="padding-right:10px;" src="https://www.flaticon.com/free-icon/gmail_732200?term=gmail&page=1&position=2&origin=search&related_id=732200" />rarojasag@ittepic.edu.mx
 
 - 🅾 [rojasaguilar](https://github.com/rojasaguilar)
 
