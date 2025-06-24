@@ -65,6 +65,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 - 🅾 [rojasaguilar](https://github.com/rojasaguilar)
 
-- <img align= "left" alt = "JS" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> [rojas_agr](https://www.instagram.com/rojas_agr?igsh=bmN0MTM0ajdpa280&utm_source=qr)
+- <img align= "left" alt = "JS" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> [rojas_agr](https://www.instagram.com/rojas_agr?igsh=bmN0MTM0ajdpa280&utm_source=qr)
+
+          
 
 
