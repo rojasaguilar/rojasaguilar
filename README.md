@@ -61,11 +61,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 🧰 Cómo contactarme
 
-- 📨 rarojasag@ittepic.edu.mx
+- ![image](https://github.com/user-attachments/assets/e8cf5aaf-3879-4764-b094-e7fc7703af35) rarojasag@ittepic.edu.mx
 
 - 🅾 [rojasaguilar](https://github.com/rojasaguilar)
 
-- <img align= "left" alt = "JS" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> [rojas_agr](https://www.instagram.com/rojas_agr?igsh=bmN0MTM0ajdpa280&utm_source=qr)
+<img align= "left" alt = "JS" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> [rojas_agr](https://www.instagram.com/rojas_agr?igsh=bmN0MTM0ajdpa280&utm_source=qr)
+
+
+
 
           
 
