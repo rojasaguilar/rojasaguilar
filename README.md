@@ -8,7 +8,7 @@ Mi nombre es Ramses Rojas Aguilar. Tengo 22 años y soy estudiante de la carrera
 
 ### 👍 Intereses
 
-- Programación web
+- Desarrollo web
 - Dibujo
 - Arquitectura 
 - Box
