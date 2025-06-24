@@ -1,19 +1,9 @@
 
-### ℹ️ Información general
-
+#
+<br>
 Mi nombre es Ramses Rojas Aguilar. Tengo 22 años y soy estudiante de la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Tepic.
 <br>
-          
-#
-
-### 👍 Intereses
-
-- Desarrollo web
-- Dibujo
-- Arquitectura 
-- Box
-<br>
-          
+        
 # 
 
 ### 🧰 Tecnologías que conozco
