@@ -61,11 +61,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 🧰 Cómo contactarme
 
-<img align= "left" alt = "gmail" width = "30px" style="padding-right:10px;" src="https://www.flaticon.com/free-icon/gmail_732200?term=gmail&page=1&position=2&origin=search&related_id=732200" />rarojasag@ittepic.edu.mx
+- 📬 rarojasag@ittepic.edu.mx
 
 - 🅾 [rojasaguilar](https://github.com/rojasaguilar)
 
-<img align= "left" alt = "JS" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> [rojas_agr](https://www.instagram.com/rojas_agr?igsh=bmN0MTM0ajdpa280&utm_source=qr)
+- 😼 [rojas_agr](https://www.instagram.com/rojas_agr?igsh=bmN0MTM0ajdpa280&utm_source=qr)
 
 
 
